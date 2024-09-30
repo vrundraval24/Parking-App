@@ -1,12 +1,7 @@
-import 'dart:developer';
-import 'dart:io';
-
-import 'package:appwrite/appwrite.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:get/get.dart';
 import 'package:parking_app/controllers/auth_controller.dart';
-import 'package:parking_app/routes/app_routes.dart';
 import 'package:parking_app/utils/validators.dart';
 
 class LoginScreen extends StatelessWidget {
