@@ -5,6 +5,4 @@ class AppRoutes {
   static const String otpVerificationScreen = '/otpVerificationScreen';
   static const String homeScreen = '/homeScreen';
   static const String studentDataScreen = '/studentDataScreen';
-
-
 }

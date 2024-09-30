@@ -12,9 +12,7 @@ class NoInternetConnectionDialog extends StatelessWidget {
           toolbarHeight: 0,
         ),
         body: const Center(
-          child: Text(
-            'No internet connection.'
-          ),
+          child: Text('No internet connection.'),
         ),
       ),
     );
